@@ -1,0 +1,6 @@
+# Toolvard RPG - Dependencies
+ursina>=6.0.0
+perlin-noise>=1.12
+opensimplex>=0.4
+numpy>=1.24.0
+pillow>=10.0.0
